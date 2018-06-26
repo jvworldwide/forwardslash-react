@@ -1,0 +1,22 @@
+{
+  "name": "forwardslash-react",
+  "version": "1.0.0",
+  "description": "A react boilerplate template for forwardslash development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvworldwide/forwardslash-react.gi.git"
+  },
+  "keywords": [
+    "forwardslash"
+  ],
+  "author": "jv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvworldwide/forwardslash-react.gi/issues"
+  },
+  "homepage": "https://github.com/jvworldwide/forwardslash-react.gi#readme"
+}
