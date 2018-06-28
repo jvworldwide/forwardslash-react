@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/jvworldwide/forwardslash-react.gi/issues"
   },
-  "homepage": "https://github.com/jvworldwide/forwardslash-react.gi#readme"
+  "homepage": "https://github.com/jvworldwide/forwardslash-react.gi#readme",
+  "devDependencies": {
+    "webpack": "^4.12.1",
+    "webpack-cli": "^3.0.8"
+  }
 }
